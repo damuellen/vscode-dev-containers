@@ -6,7 +6,7 @@
 
 | Metadata | Value |  
 |----------|-------|
-| *Contributors* | [cloudnull](https://github.com/cloudnull) |
+| *Contributors* | [damuellen](https://github.com/damuellen) |
 | *Categories* | Community, Languages |
 | *Definition type* | Dockerfile |
 | *Supported architecture(s)* | x86-64 |
